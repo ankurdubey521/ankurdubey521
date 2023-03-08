@@ -9,6 +9,7 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    environment: default
     steps:
       - uses: athul/waka-readme@master
         with:
