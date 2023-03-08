@@ -9,4 +9,13 @@ Currently working at [Biconomy](https://biconomy.io/) as a Web3 Engineer
 <hr/>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 September 2021 - To: 08 March 2023
+
+Total Time: 1,433 hrs 21 mins
+
+Other          603 hrs 47 mins ██████████▓░░░░░░░░░░░░░░   42.12 %
+```
+
 <!--END_SECTION:waka-->
