@@ -4,3 +4,7 @@ Currently working at [Biconomy](https://biconomy.io/) as a Web3 Engineer
 
 
 ![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankurdubey521&count_private=true&theme=radical)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
