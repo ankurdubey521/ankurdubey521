@@ -11,12 +11,12 @@ Currently working at [Biconomy](https://biconomy.io/) as a Web3 Engineer
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2023 - To: 27 March 2023
+From: 21 March 2023 - To: 28 March 2023
 
-Total Time: 7 hrs 30 mins
+Total Time: 8 hrs 18 mins
 
-Solidity     5 hrs 59 mins   ████████████████████░░░░░   79.81 %
-Other        1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+Solidity     5 hrs 59 mins   ██████████████████░░░░░░░   72.07 %
+Other        1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
 ```
 
 <!--END_SECTION:waka-->
