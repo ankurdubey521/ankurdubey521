@@ -11,17 +11,20 @@ Currently working at [Biconomy](https://biconomy.io/) as a Web3 Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 11 June 2023
+From: 13 May 2023 - To: 12 June 2023
 
-Total Time: 21 hrs 34 mins
+Total Time: 97 hrs 14 mins
 
-Solidity     20 hrs 29 mins  ███████████████████████▓░   95.00 %
-TypeScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Solidity     74 hrs 3 mins   ███████████████████░░░░░░   76.16 %
+TypeScript   17 hrs 6 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+JSON         2 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Other        1 hr 26 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Bash         57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Text         33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TOML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
