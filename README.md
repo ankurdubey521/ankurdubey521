@@ -11,13 +11,13 @@ Currently working at [Biconomy](https://biconomy.io/) as a Blockchain Engineer, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2021 - To: 01 April 2024
+From: 19 September 2021 - To: 02 April 2024
 
-Total Time: 2,123 hrs 40 mins
+Total Time: 2,125 hrs 10 mins
 
-Other              717 hrs 45 mins ████████▒░░░░░░░░░░░░░░░░   33.80 %
-TypeScript         563 hrs 57 mins ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
-Solidity           563 hrs 1 min   ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+Other              719 hrs 15 mins ████████▒░░░░░░░░░░░░░░░░   33.84 %
+TypeScript         563 hrs 57 mins ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
+Solidity           563 hrs 1 min   ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
 JavaScript         54 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 sh                 43 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 Bash               42 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
