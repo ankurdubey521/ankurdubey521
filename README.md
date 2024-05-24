@@ -11,18 +11,18 @@ Currently working at [Biconomy](https://biconomy.io/) as a Blockchain Engineer, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2021 - To: 21 May 2024
+From: 19 September 2021 - To: 22 May 2024
 
-Total Time: 2,144 hrs 10 mins
+Total Time: 2,148 hrs 10 mins
 
-Other              727 hrs 3 mins  ████████▒░░░░░░░░░░░░░░░░   33.91 %
-Solidity           568 hrs 55 mins ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-TypeScript         564 hrs 30 mins ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
+Other              727 hrs 3 mins  ████████▒░░░░░░░░░░░░░░░░   33.85 %
+Solidity           568 hrs 55 mins ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
+TypeScript         564 hrs 33 mins ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
 JavaScript         54 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 sh                 43 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Bash               42 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Rust               36 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JSON               28 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Bash               42 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Rust               39 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JSON               28 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 YAML               27 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 TeX                9 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
