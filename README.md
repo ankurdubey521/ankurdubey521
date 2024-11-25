@@ -19,4 +19,4 @@ to reduce the cost of sending User Operations by over 47%. *Solidity/Yul*.
 Personal:
 1.  [h-IVM](https://github.com/aa-labs/hIVM) - Custom Intent DSL + Stack Based VM for execution of Intents. [ETHGlobal India'23 Finalist](https://ethglobal.com/showcase/hivm-hybrid-intent-virtual-machine-wfi5i). [Presentation](https://www.canva.com/design/DAF2inb12Cs/ubFQbrpCKiCFI3N5Dyl7qA/edit)
 2. [PegaSys Network (Litepaper)](https://pegasys.network/litepaper.pdf) - PoS Network to allow Bitcoin holders to earn native yield on their capital in a passive, non-custodial manner, by deploying users' funds into the Lightning Network.
-3. [SolvNet](https://github.com/aa-labs/solvnet) - Cross-chain liquidity leasing market for idle funds in smart accounts. [ETHGlobal Bangkok'24 Bounty Winner](https://ethglobal.com/showcase/solvnet-rr87n)
+3. [SolvNet](https://github.com/aa-labs/solvnet) - Cross-chain liquidity leasing market for idle funds in smart accounts. [ETHGlobal Bangkok'24 Bounty Winner](https://ethglobal.com/showcase/solvnet-rr87n). [Presentation](https://www.canva.com/design/DAGWra0VUKY/dzYDkv7I-oa7iByZe56btg/edit)
