@@ -5,7 +5,7 @@ Blockchain R&D Engineer working on simplifying on-chain UX. Solidity, Yul and Ru
 
 ### proof of work
 
-Biconomy:
+[Biconomy](https://github.com/bcnmy:
 1. [reflux](https://github.com/bcnmy/reflux) -  a M-to-1 Cross-Chain Solver to efficiently
 aggregate user funds from multiple chains into a single chain. *Rust*.
 2. [userop-compressor](https://github.com/bcnmy/userop-compression-l2/blob/main/src/EP6Decompressor.sol) - L2-specific calldata compression
