@@ -5,6 +5,9 @@ Blockchain R&D Engineer working on simplifying on-chain UX. Solidity, Yul and Ru
 
 ### proof of work
 
+[Royco](https://www.royco.org/)
+1. [dawn](https://github.com/roycoprotocol/royco-dawn/tree/main) - Mechanism Design and Implementation of Royco's Risk Tranching Protocol - Royco Dawn
+
 [Biconomy](https://github.com/bcnmy):
 1. [reflux](https://github.com/bcnmy/reflux) -  a M-to-1 Cross-Chain Solver to efficiently
 aggregate user funds from multiple chains into a single chain. *Rust*.
